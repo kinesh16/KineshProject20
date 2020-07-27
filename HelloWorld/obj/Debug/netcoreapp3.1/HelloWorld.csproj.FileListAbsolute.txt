@@ -1,0 +1,11 @@
+C:\revature\kinesh-vcs\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\revature\kinesh-vcs\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\revature\kinesh-vcs\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\revature\kinesh-vcs\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\revature\kinesh-vcs\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\revature\kinesh-vcs\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\revature\kinesh-vcs\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\revature\kinesh-vcs\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\revature\kinesh-vcs\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\revature\kinesh-vcs\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\revature\kinesh-vcs\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
